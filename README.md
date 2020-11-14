@@ -1,4 +1,4 @@
 # nodejs_chef
 
-TODO: Enter the cookbook description here.
+TODO: this is an wrapper cookbook for nodejs
 

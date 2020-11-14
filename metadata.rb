@@ -3,7 +3,6 @@ maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures nodejs_chef'
-long_description 'Installs/Configures nodejs_chef'
 version '0.1.0'
 chef_version '>= 14.0'
 
@@ -18,3 +17,5 @@ chef_version '>= 14.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/nodejs_chef'
+
+depends 'nodejs', '7.3.0'
